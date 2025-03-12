@@ -22,7 +22,7 @@ jobs:
         uses: actions/setup-dotnet@v4
         with:
           dotnet-version: '9.x'
-          include-prerelease: true
+
 
       - name: Build with dotnet
         run: dotnet build ./AdvancedDevelopment/AdvancedDevelopment.sln --configuration Release
