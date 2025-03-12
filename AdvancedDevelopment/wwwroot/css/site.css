@@ -1,0 +1,124 @@
+html {
+    font-size: 14px;
+    position: relative;
+    min-height: 100%;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+.container-fluid {
+    padding: 20px;
+}
+
+.filter-panel {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.filter-form h4 {
+    margin-bottom: 20px;
+}
+
+.product-card {
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+    .product-card img {
+        width: 100%;
+        height: auto;
+        border-bottom: 1px solid #ddd;
+        margin-bottom: 15px;
+    }
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+/* Additional CSS for Product Details Page */
+.product-detail-page {
+    padding: 20px;
+}
+
+.price {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.wishlist-form {
+    margin-top: 20px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.reviews ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.reviews li {
+    background-color: #f8f9fa;
+    margin-top: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+/* Additional styles to address the new elements in the Wishlist page */
+.wishlist-page {
+    padding: 20px;
+    margin-top: 20px;
+}
+
+    .wishlist-page .table {
+        margin-top: 20px;
+        background-color: #f8f9fa;
+    }
+
+    .wishlist-page .btn-danger {
+        background-color: #dc3545;
+        border-color: #dc3545;
+    }
+
+    .wishlist-page .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+
+/* Home page */
+.home-intro {
+    background-color: #f8f9fa;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+}
+
+.carousel-item img {
+    height: 65vh; /* Adjust height as needed */
+    object-fit: cover;
+}
+
+

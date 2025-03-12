@@ -1,0 +1,80 @@
+﻿@model AdvancedDevelopment.Models.Product
+
+@{
+    ViewData["Title"] = Model.Name;
+}
+
+<div class="container product-detail-page">
+    <h1>@Model.Name</h1>
+    <div class="row">
+        <div class="col-md-6">
+            <img src="~/@Model.ImageUrl" alt="@Model.Name" class="img-fluid" />
+        </div>
+        <div class="col-md-6">
+            <p>@Model.Description</p>
+            <p class="price"><strong>Price:</strong> @Model.Price.ToString("C")</p>
+            <p><strong>Brand:</strong> @Model.Brand</p>
+            <p><strong>Gender:</strong> @Model.Gender</p>
+            <p><strong>Category:</strong> @Model.Category</p>
+            <form action="@Url.Action("Add", "Wishlist")" method="post" class="wishlist-form">
+                <input type="hidden" name="productId" value="@Model.Id" />
+                <button type="submit" class="btn btn-primary">Add to Wishlist</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="related-products mt-5">
+        <h3>Related Products</h3>
+        <div class="row">
+            @foreach (var relatedProduct in ViewBag.RelatedProducts)
+            {
+                <div class="col-md-4 product-card">
+                    <img src="~/@relatedProduct.ImageUrl" alt="@relatedProduct.Name" class="img-fluid" />
+                    <h4>@relatedProduct.Name</h4>
+                    <p>@relatedProduct.Price.ToString("C")</p>
+                    <a class="btn btn-primary" asp-controller="Product" asp-action="Details" asp-route-id="@relatedProduct.Id">View Details</a>
+                </div>
+            }
+        </div>
+    </div>
+
+    <div class="reviews mt-5">
+        <h2>Reviews</h2>
+        @if (ViewBag.AverageRating != null)
+        {
+            <p>Average Rating: @ViewBag.AverageRating.ToString("N1")</p>
+        }
+        <ul>
+            @foreach (var review in Model.Reviews)
+            {
+                <li>
+                    <strong>@review.ReviewerName</strong>: @review.Comment (Rating: @review.Rating)
+                </li>
+            }
+        </ul>
+
+        <h2>Add a Review</h2>
+        <form asp-action="AddReview" method="post">
+            <input type="hidden" name="productId" value="@Model.Id" />
+            <div class="form-group">
+                <label for="rating">Rating:</label>
+                <select name="review.Rating" id="rating" class="form-control">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="comment">Comment:</label>
+                <textarea name="review.Comment" id="comment" class="form-control"></textarea>
+            </div>
+            <div class="form-group">
+                <label for="reviewerName">Name:</label>
+                <input type="text" name="review.ReviewerName" id="reviewerName" class="form-control" />
+            </div>
+            <button type="submit" class="btn btn-success">Submit Review</button>
+        </form>
+    </div>
+</div>

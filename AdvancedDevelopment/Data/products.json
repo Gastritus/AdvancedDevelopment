@@ -1,0 +1,287 @@
+[
+  {
+    "Id": 1,
+    "Name": "Running Shoes",
+    "Description": "Comfortable running shoes",
+    "Price": 99.99,
+    "ImageUrl": "images/nike.jpg",
+    "Brand": "Nike",
+    "Gender": "Male",
+    "Category": "Sportswear",
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Great shoes!",
+        "ReviewerName": "John Doe"
+      },
+      {
+        "Rating": 4,
+        "Comment": "Very comfortable.",
+        "ReviewerName": "Jane Smith"
+      },
+      {
+        "Rating": 5,
+        "Comment": "Nice",
+        "ReviewerName": "James"
+      },
+      {
+        "Rating": 1,
+        "Comment": "tv232tv32t43v t4 v3",
+        "ReviewerName": "t432t43 v2t 432"
+      }
+    ],
+    "FormattedPrice": "\u00A399.99"
+  },
+  {
+    "Id": 2,
+    "Name": "Casual Sneakers",
+    "Description": "Stylish casual sneakers",
+    "Price": 59.99,
+    "ImageUrl": "images/adidas.jpg",
+    "Brand": "Adidas",
+    "Gender": "Female",
+    "Category": "Casual",
+    "Reviews": [
+      {
+        "Rating": 3,
+        "Comment": "Good but could be better.",
+        "ReviewerName": "Alice Johnson"
+      }
+    ],
+    "FormattedPrice": "\u00A359.99"
+  },
+  {
+    "Id": 3,
+    "Name": "Beach Sandals",
+    "Description": "Perfect for beach outings",
+    "Price": 39.99,
+    "ImageUrl": "images/puma.jpg",
+    "Brand": "Puma",
+    "Gender": "Male",
+    "Category": "Casual",
+    "Reviews": [
+      {
+        "Rating": 4,
+        "Comment": "Nice sandals!",
+        "ReviewerName": "Tom"
+      }
+    ],
+    "FormattedPrice": "\u00A339.99"
+  },
+  {
+    "Id": 4,
+    "Name": "Leather Boots",
+    "Description": "High-quality leather boots",
+    "Price": 149.99,
+    "ImageUrl": "images/timberland.jpg",
+    "Brand": "Timberland",
+    "Gender": "Female",
+    "Category": "Formal",
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Love these boots!",
+        "ReviewerName": "Sam"
+      }
+    ],
+    "FormattedPrice": "\u00A3149.99"
+  },
+  {
+    "Id": 5,
+    "Name": "Running Sneakers",
+    "Description": "Lightweight running sneakers",
+    "Price": 89.99,
+    "ImageUrl": "images/asics.jpg",
+    "Brand": "Asics",
+    "Gender": "Male",
+    "Category": "Sportswear",
+    "Reviews": [
+      {
+        "Rating": 4,
+        "Comment": "Great for running.",
+        "ReviewerName": "Bob"
+      }
+    ],
+    "FormattedPrice": "\u00A389.99"
+  },
+  {
+    "Id": 6,
+    "Name": "Slip-On Loafers",
+    "Description": "Casual slip-on loafers",
+    "Price": 49.99,
+    "ImageUrl": "images/clarks.jpg",
+    "Brand": "Clarks",
+    "Gender": "Female",
+    "Category": "Casual",
+    "Reviews": [
+      {
+        "Rating": 4,
+        "Comment": "Very comfortable.",
+        "ReviewerName": "Sara"
+      }
+    ],
+    "FormattedPrice": "\u00A349.99"
+  },
+  {
+    "Id": 7,
+    "Name": "Basketball Shoes",
+    "Description": "High-performance basketball shoes",
+    "Price": 129.99,
+    "ImageUrl": "images/nike.jpg",
+    "Brand": "Nike",
+    "Gender": "Male",
+    "Category": "Sportswear",
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Excellent performance!",
+        "ReviewerName": "Derek"
+      }
+    ],
+    "FormattedPrice": "\u00A3129.99"
+  },
+  {
+    "Id": 8,
+    "Name": "Casual Running Shoes",
+    "Description": "Comfortable casual running shoes",
+    "Price": 79.99,
+    "ImageUrl": "images/adidas.jpg",
+    "Brand": "Adidas",
+    "Gender": "Female",
+    "Category": "Sportswear",
+    "Reviews": [
+      {
+        "Rating": 3,
+        "Comment": "Average quality.",
+        "ReviewerName": "Emily"
+      }
+    ],
+    "FormattedPrice": "\u00A379.99"
+  },
+  {
+    "Id": 9,
+    "Name": "Hiking Boots",
+    "Description": "Durable hiking boots",
+    "Price": 159.99,
+    "ImageUrl": "images/timberland.jpg",
+    "Brand": "Timberland",
+    "Gender": "Male",
+    "Category": "Outdoor",
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Perfect for hiking!",
+        "ReviewerName": "Mike"
+      }
+    ],
+    "FormattedPrice": "\u00A3159.99"
+  },
+  {
+    "Id": 10,
+    "Name": "Tennis Shoes",
+    "Description": "High-grip tennis shoes",
+    "Price": 119.99,
+    "ImageUrl": "images/nike.jpg",
+    "Brand": "Nike",
+    "Gender": "Female",
+    "Category": "Sportswear",
+    "Reviews": [
+      {
+        "Rating": 4,
+        "Comment": "Great for tennis.",
+        "ReviewerName": "Laura"
+      }
+    ],
+    "FormattedPrice": "\u00A3119.99"
+  },
+  {
+    "Id": 11,
+    "Name": "Slip-On Sneakers",
+    "Description": "Easy slip-on sneakers",
+    "Price": 44.99,
+    "ImageUrl": "images/clarks.jpg",
+    "Brand": "Clarks",
+    "Gender": "Male",
+    "Category": "Casual",
+    "Reviews": [
+      {
+        "Rating": 3,
+        "Comment": "Decent quality.",
+        "ReviewerName": "Jack"
+      }
+    ],
+    "FormattedPrice": "\u00A344.99"
+  },
+  {
+    "Id": 12,
+    "Name": "Soccer Cleats",
+    "Description": "High-performance soccer cleats",
+    "Price": 139.99,
+    "ImageUrl": "images/adidas.jpg",
+    "Brand": "Adidas",
+    "Gender": "Male",
+    "Category": "Sportswear",
+    "Reviews": [
+      {
+        "Rating": 4,
+        "Comment": "Good for soccer.",
+        "ReviewerName": "Alex"
+      }
+    ],
+    "FormattedPrice": "\u00A3139.99"
+  },
+  {
+    "Id": 13,
+    "Name": "Formal Dress Shoes",
+    "Description": "Elegant formal dress shoes",
+    "Price": 199.99,
+    "ImageUrl": "images/timberland.jpg",
+    "Brand": "Timberland",
+    "Gender": "Female",
+    "Category": "Formal",
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Perfect for formal events.",
+        "ReviewerName": "Linda"
+      }
+    ],
+    "FormattedPrice": "\u00A3199.99"
+  },
+  {
+    "Id": 14,
+    "Name": "CrossFit Shoes",
+    "Description": "Durable CrossFit shoes",
+    "Price": 109.99,
+    "ImageUrl": "images/nike.jpg",
+    "Brand": "Nike",
+    "Gender": "Male",
+    "Category": "Sportswear",
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Excellent for workouts.",
+        "ReviewerName": "Chris"
+      }
+    ],
+    "FormattedPrice": "\u00A3109.99"
+  },
+  {
+    "Id": 15,
+    "Name": "Waterproof Boots",
+    "Description": "Reliable waterproof boots",
+    "Price": 139.99,
+    "ImageUrl": "images/timberland.jpg",
+    "Brand": "Timberland",
+    "Gender": "Female",
+    "Category": "Outdoor",
+    "Reviews": [
+      {
+        "Rating": 4,
+        "Comment": "Great for rainy days.",
+        "ReviewerName": "Sophie"
+      }
+    ],
+    "FormattedPrice": "\u00A3139.99"
+  }
+]

@@ -1,0 +1,97 @@
+﻿@model IEnumerable<AdvancedDevelopment.Models.Product>
+@{
+    ViewData["Title"] = "Products";
+}
+
+<h1>Products</h1>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-3 filter-panel">
+            <form asp-action="Index" method="get" class="filter-form">
+                <h4>Filters</h4>
+                <div class="form-group">
+                    <label for="sortBy">Sort By:</label>
+                    <select name="sortBy" class="form-control">
+                        <option value="PriceLowToHigh">Price: Low to High</option>
+                        <option value="PriceHighToLow">Price: High to Low</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="maxPrice">Max Price:</label>
+                    <input type="number" name="maxPrice" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label for="brand">Brand:</label>
+                    <select name="brand" class="form-control">
+                        <option value="">Any</option>
+                        @if (ViewBag.Brands != null)
+                        {
+                            foreach (var brand in (IEnumerable<string>)ViewBag.Brands)
+                            {
+                                <option value="@brand">@brand</option>
+                            }
+                        }
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="gender">Gender:</label>
+                    <select name="gender" class="form-control">
+                        <option value="">Any</option>
+                        <option value="Male">Male</option>
+                        <option value="Female">Female</option>
+                    </select>
+                </div>
+                <button type="submit" class="btn btn-primary">Apply Filters</button>
+            </form>
+        </div>
+
+        <div class="col-md-9">
+            <h3>Recently Viewed Products</h3>
+            <div class="recently-viewed-products">
+                @if (ViewBag.RecentlyViewedProducts != null && ((IEnumerable<AdvancedDevelopment.Models.Product>)ViewBag.RecentlyViewedProducts).Any())
+                {
+                    <div class="row">
+                        @foreach (var viewedProduct in ViewBag.RecentlyViewedProducts)
+                        {
+                            <div class="col-md-4 product-card">
+                                <img src="@viewedProduct.ImageUrl" alt="@viewedProduct.Name" class="img-fluid" />
+                                <h4>@viewedProduct.Name</h4>
+                                <p>@viewedProduct.Price.ToString("C")</p>
+                                <a class="btn btn-primary" asp-controller="Product" asp-action="Details" asp-route-id="@viewedProduct.Id">View Details</a>
+                            </div>
+                        }
+                    </div>
+                }
+                else
+                {
+                    <p>No recently viewed products.</p>
+                }
+            </div>
+
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Description</th>
+                        <th>Price</th>
+                        <th>Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var product in Model)
+                    {
+                        <tr>
+                            <td>@product.Name</td>
+                            <td>@product.Description</td>
+                            <td>@product.Price.ToString("C", new System.Globalization.CultureInfo("en-GB"))</td>
+                            <td>
+                                <a class="btn btn-primary" asp-controller="Product" asp-action="Details" asp-route-id="@product.Id">View Details</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,40 @@
+﻿@model IEnumerable<AdvancedDevelopment.Models.Product>
+
+@{
+    ViewData["Title"] = "Wishlist";
+}
+
+<div class="wishlist-page container">
+    <h1>@ViewData["Title"]</h1>
+
+    @if (Model.Any())
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Price</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var product in Model)
+                {
+                    <tr>
+                        <td>@product.Name</td>
+                        <td>@product.Price.ToString("C", new System.Globalization.CultureInfo("en-GB"))</td>
+                        <td>
+                            <a href="@Url.Action("Remove", "Wishlist", new { productId = product.Id })" class="btn btn-danger">Remove</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>Your wishlist is currently empty.</p>
+    }
+
+    <a href="@Url.Action("Index", "Product")" class="btn btn-primary">Back to Products</a>
+</div>

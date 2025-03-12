@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|c:\\users\\gastr\\desktop\\uni\\advanceddevelopment\\advanceddevelopment\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|c:\\users\\gastr\\desktop\\uni\\advanceddevelopment\\advanceddevelopment\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|c:\\users\\gastr\\desktop\\uni\\advanceddevelopment\\advanceddevelopment\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|c:\\users\\gastr\\desktop\\uni\\advanceddevelopment\\advanceddevelopment\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|c:\\users\\gastr\\desktop\\uni\\advanceddevelopment\\advanceddevelopment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9047C2-2E95-4A37-B651-786B2D5DB1A7}|..\\AdvancedDevelopment.Test\\AdvancedDevelopment.Test.csproj|c:\\users\\gastr\\desktop\\uni\\advanceddevelopment\\advanceddevelopment.test\\controllers\\wishlistcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|c:\\users\\gastr\\desktop\\uni\\advanceddevelopment\\advanceddevelopment\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|solutionrelative:extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9047C2-2E95-4A37-B651-786B2D5DB1A7}|..\\AdvancedDevelopment.Test\\AdvancedDevelopment.Test.csproj|c:\\users\\gastr\\desktop\\uni\\advanceddevelopment\\advanceddevelopment.test\\controllers\\productcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|c:\\users\\gastr\\desktop\\uni\\advanceddevelopment\\advanceddevelopment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|c:\\users\\gastr\\desktop\\uni\\advanceddevelopment\\advanceddevelopment\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|c:\\users\\gastr\\desktop\\uni\\advanceddevelopment\\advanceddevelopment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|c:\\users\\gastr\\desktop\\uni\\advanceddevelopment\\advanceddevelopment\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|solutionrelative:controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|c:\\users\\gastr\\desktop\\uni\\advanceddevelopment\\advanceddevelopment\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|c:\\users\\gastr\\desktop\\uni\\advanceddevelopment\\advanceddevelopment\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|c:\\users\\gastr\\desktop\\uni\\advanceddevelopment\\advanceddevelopment\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|c:\\users\\gastr\\desktop\\uni\\advanceddevelopment\\advanceddevelopment\\advanceddevelopment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|solutionrelative:advanceddevelopment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|c:\\users\\gastr\\desktop\\uni\\advanceddevelopment\\advanceddevelopment\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|solutionrelative:wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|c:\\users\\gastr\\desktop\\uni\\advanceddevelopment\\advanceddevelopment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|c:\\users\\gastr\\desktop\\uni\\advanceddevelopment\\advanceddevelopment\\data\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|solutionrelative:data\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|c:\\users\\gastr\\desktop\\uni\\advanceddevelopment\\advanceddevelopment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|c:\\users\\gastr\\desktop\\uni\\advanceddevelopment\\advanceddevelopment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC77150-C25C-47FB-9E59-72994B8A98F7}|AdvancedDevelopment.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gastr\\Desktop\\uni\\me\\AdvancedDevelopment.Test\\Services\\ProductServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gastr\\Desktop\\uni\\me\\AdvancedDevelopment.Test\\Controllers\\ProductControllerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gastr\\Desktop\\uni\\me\\AdvancedDevelopment.Test\\Controllers\\WishlistControllerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gastr\\Desktop\\uni\\me\\AdvancedDevelopment.Test\\AdvancedDevelopment.Test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T04:31:47.702Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WishlistControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment.Test\\Controllers\\WishlistControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\AdvancedDevelopment.Test\\Controllers\\WishlistControllerTests.cs",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment.Test\\Controllers\\WishlistControllerTests.cs",
+              "RelativeToolTip": "..\\AdvancedDevelopment.Test\\Controllers\\WishlistControllerTests.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAADwv2cAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:54:10.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Extensions\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Extensions\\SessionExtensions.cs",
+              "RelativeToolTip": "Extensions\\SessionExtensions.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:04:58.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:04:17.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:04:29.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:04:26.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T20:44:13.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:04:23.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment.Test\\Controllers\\ProductControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\AdvancedDevelopment.Test\\Controllers\\ProductControllerTests.cs",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment.Test\\Controllers\\ProductControllerTests.cs",
+              "RelativeToolTip": "..\\AdvancedDevelopment.Test\\Controllers\\ProductControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:47:29.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WishlistController.cs",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Controllers\\WishlistController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WishlistController.cs",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Controllers\\WishlistController.cs",
+              "RelativeToolTip": "Controllers\\WishlistController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:04:33.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:04:56.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:04:22.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Models\\Review.cs",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Models\\Review.cs",
+              "RelativeToolTip": "Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:04:19.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAJsLAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-04T20:01:42.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAABAAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-01T02:01:42.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-08-01T03:37:18.172Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdvancedDevelopment.csproj",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\AdvancedDevelopment.csproj",
+              "RelativeDocumentMoniker": "AdvancedDevelopment.csproj",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\AdvancedDevelopment.csproj",
+              "RelativeToolTip": "AdvancedDevelopment.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-26T21:16:08.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "bootstrap-reboot.css.map",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALlwEAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-01T03:35:13.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "products.json",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Data\\products.json",
+              "RelativeDocumentMoniker": "Data\\products.json",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Data\\products.json",
+              "RelativeToolTip": "Data\\products.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T23:11:30.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T20:37:41.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\me\\AdvancedDevelopment.Test\\Services\\ProductServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\me\\AdvancedDevelopment.Test\\Services\\ProductServiceTests.cs",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\me\\AdvancedDevelopment.Test\\Services\\ProductServiceTests.cs",
+              "RelativeToolTip": "..\\..\\me\\AdvancedDevelopment.Test\\Services\\ProductServiceTests.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T22:25:59.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\me\\AdvancedDevelopment.Test\\Controllers\\ProductControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\me\\AdvancedDevelopment.Test\\Controllers\\ProductControllerTests.cs",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\me\\AdvancedDevelopment.Test\\Controllers\\ProductControllerTests.cs",
+              "RelativeToolTip": "..\\..\\me\\AdvancedDevelopment.Test\\Controllers\\ProductControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T22:26:07.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WishlistControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\me\\AdvancedDevelopment.Test\\Controllers\\WishlistControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\me\\AdvancedDevelopment.Test\\Controllers\\WishlistControllerTests.cs",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\me\\AdvancedDevelopment.Test\\Controllers\\WishlistControllerTests.cs",
+              "RelativeToolTip": "..\\..\\me\\AdvancedDevelopment.Test\\Controllers\\WishlistControllerTests.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowBkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T23:51:10.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdvancedDevelopment.Test.csproj",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\me\\AdvancedDevelopment.Test\\AdvancedDevelopment.Test.csproj",
+              "RelativeDocumentMoniker": "..\\..\\me\\AdvancedDevelopment.Test\\AdvancedDevelopment.Test.csproj",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\me\\AdvancedDevelopment.Test\\AdvancedDevelopment.Test.csproj",
+              "RelativeToolTip": "..\\..\\me\\AdvancedDevelopment.Test\\AdvancedDevelopment.Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-31T22:20:46.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\gastr\\Desktop\\uni\\AdvancedDevelopment\\AdvancedDevelopment\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T21:48:06.194Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
