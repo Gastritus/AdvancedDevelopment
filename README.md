@@ -31,17 +31,17 @@ This guide provides step-by-step instructions to load the AdvancedDevelopment we
 
 ## Running Unit Tests
 
-### Run the unit tests in `dev.tests`
+### Run the unit tests in `AdvancedDevelopment.tests`
 
 - Open a terminal or use Visual Studio.
-- Navigate to the `dev.tests` directory if you're using terminal:
-`cd dev.tests`
+- Navigate to the `AdvancedDevelopment.tests` directory if you're using terminal:
+`cd AdvancedDevelopment.tests`
 
 - Run the tests with the following command:
 `dotnet test`
 
 
-- Alternatively, you can run the tests directly within Visual Studio by opening the `dev.tests` project and using the **Test Explorer** to run all tests.
+- Alternatively, you can run the tests directly within Visual Studio by opening the `AdvancedDevelopment.tests` project and using the **Test Explorer** to run all tests.
 
 
 
